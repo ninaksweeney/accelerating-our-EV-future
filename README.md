@@ -5,8 +5,8 @@
 In recent years, electric vehicles (EVs) have gained wide notoriety, and a number of car companies are shifting heavily toward EV manufacturing. However, EVs still represent quite a low share of annual car sales due to variables like a lack of nationwide charging infrastructure, lack of vehicle options, and the up-front cost of switching away from gas. If manufacturers want more EVs on the road, consumers need to be excited enough about new EVs to justify paying for them. Using the features and consumer ratings of thousands of cars scraped from Kelly Blue Book's website, we built a regression model to identify car features that are predictive of a high consumer rating to guide the design decisions of global manufacturers.   
 
 To dig deeper into this project, please see: 
-* The Jupyter Notebook containing project code
-* Final presentation slides/visuals
+* The [Jupyter Notebook containing project code](https://github.com/ninaksweeney/Metis_Project_2/blob/main/Project2_Notebook.ipynb)
+* Final presentation [slides/visuals](https://github.com/ninaksweeney/Metis_Project_2/blob/main/Project2_Presentation.pdf)
 
 ## Design
 
